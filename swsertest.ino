@@ -1,3 +1,6 @@
+// https://github.com/plerup/espsoftwareserial
+
+
 // On ESP8266:
 // At 80MHz runs up 57600ps, and at 160MHz CPU frequency up to 115200bps with only negligible errors.
 // Connect pin 13 to 15.
