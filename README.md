@@ -7,6 +7,8 @@ clone the source code for testing only,
 ### hardware  
 
 ESP8266, Wemos D1, Pin D7 used as software RX, weight scale UART output 5V, connection via 220 ohm resistor,  
+![xiaolaba_test_swsertest_hardware.JPG](xiaolaba_test_swsertest_hardware.JPG)  
+
 
 ### software tweaking,
 ```
