@@ -16,4 +16,4 @@ ESP8266, Wemos D1, Pin D7 used as software RX, weight scale UART output 5V, conn
 ```
 
 
-
+![xiaolaba_test_swsertest.JPG](xiaolaba_test_swsertest.JPG)  
